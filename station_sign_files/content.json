@@ -1,0 +1,36 @@
+{
+    "tafel": {
+        "misc": {
+            "header": "Zeitplan Frankfurt(Main)Hbf",
+            "gelbeLeiste":{
+                "col1":"Zeit",
+                "col2":"Nach",
+                "col3":"Über",
+                "col4":"Gleis"
+            },
+            "unterschrift":"",
+            "links": [
+                {
+                    "link":{
+                        "to":"#",
+                        "title":"link"
+                    }
+                }
+            ]
+        },
+        "content": [
+            {"eintrag": {
+                "col1":{
+                    "zeit":"8:45",
+                    "zugnummer":"ICE 500"
+                },
+                "col2": "Test",
+                "col3": {
+                    "whiteText":"test1, test2, test3",
+                    "yellowText":"ca. 5 min später"
+                },
+                "col4": "1"
+            }}
+        ]
+    }
+}
